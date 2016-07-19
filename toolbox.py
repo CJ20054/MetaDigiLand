@@ -2,7 +2,8 @@ import os
 from Tkinter import *
 
 desc_obj_library = []
-print "test"
+#test
+#words test
 class description_popup:
     def __init__(self, desc_text):
         
